@@ -1,2 +1,5 @@
 # eBPF
 ro.bpf.kver_override=5.4.299
+
+# Maintainer
+ro.lunaris.maintainer=Hx4zh
